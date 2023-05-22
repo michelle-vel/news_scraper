@@ -19,3 +19,5 @@ This is a personal project utilizing the NewsAPI to create a custom news page. T
    - accesses NewsAPI headlines endpoint and displays it on front page of web app
    - web app created using Flask and run in a dockerized container
    - users can also use the search bar at the top and find articles relevant to their search term
+   
+<img width="1712" alt="Screen Shot 2023-05-22 at 11 05 56 AM" src="https://github.com/michelle-vel/news_scraper/assets/96444785/60335e46-7f78-4dc6-8894-0cd74480501e">
