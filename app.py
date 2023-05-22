@@ -3,8 +3,8 @@ from flask import Flask, render_template, request
 
 app = Flask(__name__) 
 
-headers = {'Authorization': 'ec6e95b6efb1413f8546562ae41d0b34'}
-api = "ec6e95b6efb1413f8546562ae41d0b34"
+headers = {'Authorization': ''}
+api = ""
 everything = "https://newsapi.org/v2/everything?"
 top_headlines = "https://newsapi.org/v2/top-headlines?"
 sources = "https://newsapi.org/v2/sources?"
