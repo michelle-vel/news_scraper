@@ -12,6 +12,7 @@ This is a personal project utilizing the NewsAPI to create a custom news page. T
    - the full text of each article is sent back to the python side 
    - if necessary, the text is cleaned by using the chatGPT API 
    - all the information from the article and the full, cleaned text is put into SQLite database
+   - the full text is also returned to the user
 
 
 2. Web app:
